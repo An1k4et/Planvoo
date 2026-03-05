@@ -150,8 +150,8 @@ function Hero() {
               <HeroVideoDialog
                 className="block dark:hidden w-225 h-140"
                 animationStyle="from-center"
-                videoSrc="https://www.youtube.com/watch?v=19Fwq4vXENs"
-                thumbnailSrc="https://img.youtube.com/vi/19Fwq4vXENs/maxresdefault.jpg"
+                videoSrc="https://www.youtube.com/embed/4vTXtVg6L2E"
+                thumbnailSrc="https://img.youtube.com/vi/4vTXtVg6L2E/maxresdefault.jpg"
                 thumbnailAlt="Trip Planner Demo Video"
               />
             </Link>
