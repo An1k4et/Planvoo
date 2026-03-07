@@ -7,7 +7,7 @@ export default function Footer() {
         
         {/* Branding */}
         <div>
-          <h2 className="text-2xl font-bold text-white">TripPlanner</h2>
+          <h2 className="text-2xl font-bold text-white">Planvoo</h2>
           <p className="mt-4 text-sm text-gray-400 leading-relaxed">
             Plan smarter trips with ease. Discover destinations, organize
             itineraries, and travel better with our intelligent planner.
